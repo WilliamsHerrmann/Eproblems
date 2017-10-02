@@ -1,4 +1,4 @@
-
+#Euler problem 32: sum of the products of pandigital equations 
 #We will put the products in a set to avoid duplicates
 products = set()
 
